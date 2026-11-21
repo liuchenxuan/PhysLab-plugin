@@ -1,0 +1,19 @@
+{
+  "id": "ai-lab-assistant",
+  "name": "AI 实验助手",
+  "version": "1.0.0",
+  "author": "PhysLab Official",
+  "category": "official",
+  "description": "新增“AI 实验报告”工具；强化“物理一致性校验”提示词；向 AI 追加上下文并增加对话快捷问题。",
+  "kinds": [
+    "ai"
+  ],
+  "tags": [
+    "AI",
+    "报告",
+    "提示词"
+  ],
+  "apiVersion": "1.0",
+  "entry": "index.js",
+  "license": "GPL-3.0"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "plugin-template",
+  "name": "插件模板",
+  "version": "1.0.0",
+  "author": "你的名字",
+  "category": "users",
+  "description": "PhysLab 插件模板：同时演示新增模块、图表、变量、结果修正与 AI 功能。复制本文件夹后按需删减。",
+  "kinds": ["module", "chart", "variable", "result", "ai"],
+  "tags": ["模板"],
+  "apiVersion": "1.0",
+  "entry": "index.js",
+  "license": "MIT"
+}

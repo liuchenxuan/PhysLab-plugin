@@ -1,0 +1,20 @@
+{
+  "id": "mechanics-variables",
+  "name": "力学变量与公式",
+  "version": "1.0.0",
+  "author": "PhysLab Official",
+  "category": "official",
+  "description": "新增机械能增量、摩擦功率、系统总动量、能量账本、相对动能等变量，可用于实时数据、图表、测量与参数扫描。",
+  "kinds": [
+    "variable",
+    "chart"
+  ],
+  "tags": [
+    "变量",
+    "公式",
+    "能量"
+  ],
+  "apiVersion": "1.0",
+  "entry": "index.js",
+  "license": "GPL-3.0"
+}

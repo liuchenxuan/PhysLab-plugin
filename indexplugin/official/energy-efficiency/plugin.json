@@ -1,0 +1,19 @@
+{
+  "id": "energy-efficiency",
+  "name": "能量与效率分析",
+  "version": "1.0.0",
+  "author": "PhysLab Official",
+  "category": "official",
+  "description": "新增传送带效率、总生热占比等计算结果；修正“痕迹长度”的提示；新增能量账本校验与解题步骤。",
+  "kinds": [
+    "result"
+  ],
+  "tags": [
+    "结果",
+    "校验",
+    "效率"
+  ],
+  "apiVersion": "1.0",
+  "entry": "index.js",
+  "license": "GPL-3.0"
+}

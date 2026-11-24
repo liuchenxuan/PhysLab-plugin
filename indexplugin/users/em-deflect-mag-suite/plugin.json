@@ -1,0 +1,24 @@
+{
+  "id": "em-deflect-mag-suite",
+  "name": "高中电磁学·有界磁场与偏转电场题库套件",
+  "version": "1.0.0",
+  "author": "liuchenxuan",
+  "category": "users",
+  "description": "新增有界匀强磁场（单边界/双边界临界/圆形磁聚焦）、示波管加速与偏转电场、先电后磁组合场压轴模块及12道经典高考电磁学例题、图表与守恒校验。",
+  "kinds": [
+    "module",
+    "chart",
+    "variable"
+  ],
+  "tags": [
+    "电磁学",
+    "洛伦兹力",
+    "偏转电场",
+    "示波管",
+    "组合场",
+    "高考题库"
+  ],
+  "apiVersion": "1.0",
+  "entry": "index.js",
+  "license": "GPL-3.0"
+}
